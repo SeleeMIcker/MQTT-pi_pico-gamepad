@@ -1,0 +1,2 @@
+test.py is the one you can open in your laptop or rasberry pi which allows to receive input from joystick, 
+and send the message to the pico to control motor eventually.
