@@ -1,4 +1,4 @@
-from motor_driver import *         # import motor_driver library
+from motor_driver import *         
 
 # Drive Motor
 
